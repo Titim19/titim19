@@ -8,6 +8,7 @@ Aca voy agregando y actualizando todo los nuevos conocimientos y projectos perso
   <br>
   Soy Integrante del Grupo WORKBOTS<br>
  <img src = "https://github.com/Titim19/titim19/assets/111476643/9d589ba7-2318-4dbb-a2e3-51c4522eb186"/>
+  ![Untitled video]([https://github.com/CodeSystem2022/WorkBots_Tercer_Semestre/assets/112594803/77377763-7cab-43ae-a3df-0f4104a3b2d6](https://github.com/Titim19/titim19/assets/111476643/9d589ba7-2318-4dbb-a2e3-51c4522eb186))
   </div>
 
  # 💻 Lenguajes y Herramientas:
