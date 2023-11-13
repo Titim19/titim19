@@ -1,5 +1,6 @@
+         <h1 align="center">TECNICATURA UNIVERSITARIA EN PROGRAMACION</h1>
 <h2>REPOSITORIO DE TECNICATURA UNIVERSITARIA EN PROGRAMACION UTN SAN RAFAEL </h2>
-<h1 align="center">TECNICATURA UNIVERSITARIA EN PROGRAMACION</h1>
+
 
 <div align="center">
   Aca voy agregando y actualizando todo los nuevos conocimientos y projectos personales<br>
