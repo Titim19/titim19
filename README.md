@@ -13,8 +13,7 @@
   <img height="390" src = "https://github.com/CodeSystem2022/Workbots_proyecto_integrador_4to_semestre/assets/112597189/35c4e334-e596-4f7c-9e25-3001e6cb6d20"/>
 </div>
   
-   ![Untitled video](https://github.com/CodeSystem2022/WorkBots_Tercer_Semestre/assets/112594803/77377763-7cab-43ae-a3df-0f4104a3b2d6)
- 
+
 
 
  # 💻 Lenguajes y Herramientas:
