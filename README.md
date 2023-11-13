@@ -25,4 +25,5 @@
 
 # PROYECTOS EN LO QUE HE PARTICIPADO
 
- ![Untitled video] (https://github.com/CodeSystem2022/Workbots_proyecto_integrador_4to_semestre.git)
+<img src = "https://github.com/CodeSystem2022/Workbots_proyecto_integrador_4to_semestre.git"/>
+</div>
